@@ -1,0 +1,36 @@
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.exe
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.deps.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.runtimeconfig.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.runtimeconfig.dev.json
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.csproj.AssemblyReference.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.AssemblyInfoInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.AssemblyInfo.cs
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.csproj.CoreCompileInputs.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.csproj.CopyComplete
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\refint\Commercial data processing.dll
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.pdb
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.genruntimeconfig.cache
+C:\Users\ankit\Desktop\bridgelab\.Net\Inventory Management\Commercial data processing\Commercial data processing\obj\Debug\net5.0\ref\Commercial data processing.dll
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.exe
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.deps.json
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.runtimeconfig.json
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.dll
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\bin\Debug\net5.0\Commercial data processing.pdb
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.csproj.CopyComplete
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.dll
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\refint\Commercial data processing.dll
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.pdb
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\Commercial data processing.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\day11\data processing\Commercial data processing\obj\Debug\net5.0\ref\Commercial data processing.dll
