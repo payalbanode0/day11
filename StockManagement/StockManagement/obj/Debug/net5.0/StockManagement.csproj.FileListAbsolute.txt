@@ -1,0 +1,36 @@
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.exe
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.deps.json
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.runtimeconfig.json
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.pdb
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.csproj.CopyComplete
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\refint\StockManagement.dll
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.pdb
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\day10 AddressBook\StockManagement\StockManagement\obj\Debug\net5.0\ref\StockManagement.dll
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.dll
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\refint\StockManagement.dll
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.pdb
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.exe
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.deps.json
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.runtimeconfig.json
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.dll
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\bin\Debug\net5.0\StockManagement.pdb
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.csproj.CopyComplete
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\StockManagement.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\day11\StockManagement\StockManagement\obj\Debug\net5.0\ref\StockManagement.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2nEqaA8Bv+70t6ayPFJhprgNxPrI2Vy1DK/EYT0U47SySqtrs1OO7PiNZ7XcP2PwWNHzgE6aWroc5BqWhJs/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\day10 AddressBook\\InventoryManagement\\InventoryManagement\\InventoryManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gjyABogCj7WqGJcUWX4S5yw/QKucJq8Tk3OqgCkyTMKsCKCvVkoMyQUEYbUH18Zq3O9WenpKSn6QTCmgkTWAKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\day11\\StockManagement\\StockManagement\\StockManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

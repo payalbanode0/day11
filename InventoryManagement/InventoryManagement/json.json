@@ -1,0 +1,62 @@
+{
+  "RiceList": [
+    {
+      "Name": "Calrose",
+      "Kg": 5,
+      "Price": 20,
+      "Type": "long"
+    },
+    {
+      "Name": "Japonica",
+      "Kg": 8,
+      "Price": 23,
+      "Type": "Small"
+    },
+    {
+      "Name": "Indica",
+      "Kg": 7,
+      "Price": 18,
+      "Type": "long"
+    }
+  ],
+  "pulselist": [
+    {
+      "Name": "chickpea",
+      "Kg": 5,
+      "Price": 20,
+      "Type": "small"
+    },
+    {
+      "Name": "ButterBean",
+      "Kg": 8,
+      "Price": 30,
+      "Type": "long"
+    },
+    {
+      "Name": "borlotti",
+      "Kg": 7,
+      "Price": 18,
+      "Type": "thin"
+    }
+  ],
+  "wheatlist": [
+    {
+      "Name": "Durum",
+      "Kg": 2,
+      "Price": 10,
+      "Type": "long"
+    },
+    {
+      "Name": "Emmer",
+      "Kg": 3,
+      "Price": 23,
+      "Type": "Small"
+    },
+    {
+      "Name": "Spelt",
+      "Kg": 10,
+      "Price": 18,
+      "Type": "long"
+    }
+  ]
+}
